@@ -1,1 +1,1 @@
-Independent machine learning based data analysis.
+Machine learning data analysis conducted personally
